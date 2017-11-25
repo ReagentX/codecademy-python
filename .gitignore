@@ -1,0 +1,3 @@
+*.pyc
+markov_python/
+cache.sqlite
